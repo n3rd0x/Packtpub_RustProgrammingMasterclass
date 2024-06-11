@@ -27,7 +27,6 @@ cargo build
 # (Optional) Build release.
 cargo build --release
 
-
 # Assume cargo.toml exists.
 cargo run
 ```
