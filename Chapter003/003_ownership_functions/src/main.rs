@@ -77,4 +77,5 @@ fn main() {
     let large_a: String = String::from("BIGDATA A");
     let large_b: String = String::from("bigdata a");
     let merged:Vec<&String> = vec![&large_a, &large_b];
+    println!("Result: {:?}", merged);
 }
