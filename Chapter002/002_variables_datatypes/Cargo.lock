@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "ch03_005_dereferencing"
+name = "ch02_002_variables_datatypes"
 version = "0.1.0"

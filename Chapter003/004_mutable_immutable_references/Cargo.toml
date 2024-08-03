@@ -1,5 +1,5 @@
 [package]
-name = "mutable_immutable_references"
+name = "ch03_004_mutable_immutable_references"
 version = "0.1.0"
 edition = "2021"
 

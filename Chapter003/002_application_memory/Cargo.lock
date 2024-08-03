@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "application_memory"
+name = "ch03_002_application_memory"
 version = "0.1.0"

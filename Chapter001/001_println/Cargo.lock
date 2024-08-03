@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "println"
+name = "ch01_001_println"
 version = "0.1.0"

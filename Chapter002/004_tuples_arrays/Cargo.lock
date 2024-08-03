@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "tuples_arrays"
+name = "ch02_004_tuples_arrays"
 version = "0.1.0"

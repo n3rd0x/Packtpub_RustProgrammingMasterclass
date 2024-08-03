@@ -1,5 +1,5 @@
 [package]
-name = "conditional_if"
+name = "ch04_001_conditional_if"
 version = "0.1.0"
 edition = "2021"
 

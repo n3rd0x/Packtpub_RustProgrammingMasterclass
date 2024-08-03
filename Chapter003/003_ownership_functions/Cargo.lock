@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "ownership_functions"
+name = "ch03_003_ownership_functions"
 version = "0.1.0"

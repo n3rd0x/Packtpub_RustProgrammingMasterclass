@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "ch03_005_dereferencing"
+name = "ch04_005_for_loops"
 version = "0.1.0"

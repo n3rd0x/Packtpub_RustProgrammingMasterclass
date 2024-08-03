@@ -1,5 +1,5 @@
 [package]
-name = "match"
+name = "ch04_003_match"
 version = "0.1.0"
 edition = "2021"
 

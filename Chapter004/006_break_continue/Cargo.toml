@@ -1,5 +1,5 @@
 [package]
-name = "ch03_002_application_memory"
+name = "ch04_006_break_continue"
 version = "0.1.0"
 edition = "2021"
 

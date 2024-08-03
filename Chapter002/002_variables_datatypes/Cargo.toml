@@ -1,5 +1,5 @@
 [package]
-name = "variables_datatypes"
+name = "ch02_002_variables_datatypes"
 version = "0.1.0"
 edition = "2021"
 
